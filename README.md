@@ -1,7 +1,7 @@
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23C9D1D9&vCenter=true&height=23&lines=Hi%2C+I'm+Ryan+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 <div>
-  I'm a developer passionate about coding, problem solving, and helping people with the things I create
+  I'm a developer passionate about coding, problem solving, and helping people (and hopefully, eventually, the world) with the things I build. 
 </div>
 
 ## Technologies I Know and Love:
